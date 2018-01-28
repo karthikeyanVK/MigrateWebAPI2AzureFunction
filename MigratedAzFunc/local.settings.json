@@ -1,0 +1,10 @@
+﻿{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=testazfunction;AccountKey=FvKl0xM9aJCfIB0VoLcGDtvi9GUIr3npNx/AEXHOeZPcZPAWFjwerfVK62uVQentLZ/rYc8dyrDt5kShbPImqw==;EndpointSuffix=core.windows.net",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=testazfunction;AccountKey=FvKl0xM9aJCfIB0VoLcGDtvi9GUIr3npNx/AEXHOeZPcZPAWFjwerfVK62uVQentLZ/rYc8dyrDt5kShbPImqw==;EndpointSuffix=core.windows.net"
+  },
+  "ConnectionStrings": {
+    "PrecompiledDbContext": "Data Source=(localdb)\\mssqllocaldb;Initial Catalog=PrecompiledDb;Integrated Security=True;MultipleActiveResultSets=True"
+  }
+}
